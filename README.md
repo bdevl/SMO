@@ -25,6 +25,6 @@ The implementation makes use of PyTorch [PyTorch](https://pytorch.org/) for auto
 
 # Data
 
-Both microstructures as well as their associated effective physical properties are generated and computed by the code itself. The precompued dataset used for the initial training of the surrogate (as well as determining the baseline performance) can be downloaded [here](https://syncandshare.lrz.de/getlink/fiWMg16Duz5NncYng42r7nfT/hdata.zip) as a zip file (substitute for the empty hdata folder). With the active learning scheme of course, new data points are adaptively generated at runtime.
+Both microstructures as well as their associated effective physical properties are generated and computed by the code itself. The precompued dataset used for the initial training of the surrogate (as well as determining the baseline performance) can be downloaded [here](https://drive.google.com/file/d/10Wk3X2sAj6_MIYio4OPdPE-ifK05cmBo/) as a zip file (substitute for the empty hdata folder). With the active learning scheme of course, new data points are adaptively generated at runtime.
 
 
